@@ -1,5 +1,3 @@
-http://etherpad.wikimedia.org/p/feq
-
 # Front End Dev Quiz - Halloween 2013
 
 ## HTML
@@ -8,28 +6,17 @@ http://etherpad.wikimedia.org/p/feq
 
 2. <!DOCTYPE html>
 
-3.
-<img src="" alt=""/> is ok,
-<img src="" alt=""> (bonus point for no /)
-(width, height, title optional)
+3. `<img src="" alt=""/>` is ok, `<img src="" alt="">` (bonus point for no `/`) (width, height, title optional)
 
-4. <!-- This is a comment -->
+4. `<!-- This is a comment -->`
 
-5.
-<dl>
-	<dt></dt>
-	<dd></dd>
-</dl>
+5. `<dl><dt></dt><dd></dd></dl>`
 
-6. Block elements,
-<h1>, <p>, <ul>, <table>
+6. Block elements `<h1>, <p>, <ul>, <table>`, Inline elements `<b>, <td>, <a>, <img>`
 
-Inline elements.
-<b>, <td>, <a>, <img>
+7. `&nbsp;`
 
-7. &nbsp;
-
-8. %21
+8. `%21`
 
 9. MP4, WebM, ogg.
 
@@ -38,38 +25,43 @@ Inline elements.
 
 ## CSS
 
-1. #FF0000, #F00, red.
+1. `#FF0000`, `#F00`, `red`
 
-2. margin: 50px 0;
+2. `margin: 50px 0;`
 
-3. text-transform: uppercase;
+3. `text-transform: uppercase;`
 
-4. * { box-sizing: border-box }
+4. `* { box-sizing: border-box }`
 
 5. The last one, as the others won't work.
-.one {
-	color: red;
-}
 
 6. Trick question again, all of them are.
 
-7. Add and underscore _ to the start.
+7. Add an underscore `_` to the start.
 
 8.
+
+```sass
 div.logo {
   background: url("logo.png") no-repeat;
   @include image-2x("logo2x.png", 100px, 25px);
 }
+```
 
 9.
+
+```css
 float: left;
 margin: 10px auto;
 padding: 20px;
 width: 100px;
 height: 50px;
 background: #000;
+```
 
-10. Fill in the missing 2 lines from the following image replacement technique:
+10.
+
+```css
 .ir {
     background-color: transparent;
     border: 0;
@@ -82,36 +74,25 @@ background: #000;
     width: 0;
     height: 150%;
 }
-
+```
 
 ## JavaScript
 
-1.
-false
-true
-true
-false
-true
-false
-false
-true
+1. false, true, true, false, true, false, false, true
 
-2.
-124
-93
+2. 124, 93
 
 3. TypeError
 
-
 4. Number, String, Logical(Boolean), null, undefined
 
-5. \u0008
+5. `\u0008`
 
 6. a, d, e.
 
 7. Not A Number.
 
-8. xob,xob,xox,xox
+8. xob, xob, xox, xox.
 
 9. LiveScript
 
@@ -124,10 +105,9 @@ true
 
 2. Mosaic(1993), Netscape(1994), IE(1995), Opera(1996), Firefox(2004), Safari(2003), Chrome(2008)
 
-3. Windows: F12, Ctrl + Shift + I
-Mac: Cmd + Opt + I
+3. Windows: `F12`, `Ctrl` + `Shift` + `I` Mac: `Cmd` + `Opt` + `I`
 
-4. Shift + ?
+4. `Shift` + `?`
 
 5. Yes.
 
@@ -147,4 +127,4 @@ Mac: Cmd + Opt + I
 
 ## One More For Fun
 
-1. http://www.w3fools.com/
+1. <http://www.w3fools.com/>
