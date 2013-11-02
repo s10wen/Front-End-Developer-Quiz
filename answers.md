@@ -1,4 +1,5 @@
-# Front End Dev Quiz - Halloween 2013
+# Front End Dev Quiz - Answers
+
 
 ## HTML
 
@@ -48,6 +49,7 @@ div.logo {
 }
 ```
 
+
 9.
 
 ```css
@@ -58,6 +60,7 @@ width: 100px;
 height: 50px;
 background: #000;
 ```
+
 
 10.
 
@@ -75,6 +78,7 @@ background: #000;
     height: 150%;
 }
 ```
+
 
 ## JavaScript
 

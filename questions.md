@@ -1,4 +1,4 @@
-# Front End Dev Quiz - Halloween 2013
+# Front End Dev Quiz - Questions
 
 
 ## HTML
@@ -18,6 +18,7 @@
 ```html
 <img> <a> <table> <p> <td> <h1> <b> <ul>
 ```
+
 
 Write out the Block elements, (1 point)
 
@@ -43,6 +44,7 @@ and the inline elements. (1 point)
 <footer>
 ```
 
+
 ## CSS
 
 1. In CSS write out the colour red 3 different ways. (1 point)
@@ -55,6 +57,7 @@ margin-right: 0px;
 margin-bottom: 50px;
 margin-left: 0px;
 ```
+
 
 3. How would you make the following text all uppercase 'This Is Some Text Here'. (1 point)
 
@@ -80,6 +83,7 @@ one {
 }
 ```
 
+
 6. Out of the following which are CSS Preprocessors. (1 point)
 Less, Sass, Turbine, Switch, Cacheer, Stylus, Preprocessor, DtCSS, CSS PP.
 
@@ -101,6 +105,7 @@ Less, Sass, Turbine, Switch, Cacheer, Stylus, Preprocessor, DtCSS, CSS PP.
 }
 ```
 
+
 Fill in the blanks here: (1 point for each correct line)
 
 ```sass
@@ -109,6 +114,7 @@ div.logo {
    @include        ("          ",      ,     );
 }
 ```
+
 
 So it outputs:
 
@@ -137,6 +143,7 @@ h50
 bg
 ```
 
+
 10. Fill in the missing 2 lines from the following image replacement technique: (1 point for each)
 
 ```css
@@ -154,6 +161,7 @@ bg
 }
 ```
 
+
 ## JavaScript
 
 1. What would the following output: (1/2 point for each)
@@ -169,6 +177,7 @@ false == null
 null == undefined
 ```
 
+
 2.  What do the following evaluate to? (1/2 point for each)
 
 ```javascript
@@ -176,12 +185,14 @@ null == undefined
 5 + 4 + "3"
 ```
 
+
 3. What would the following evaluate to: (1 point)
 
 ```javascript
 console.log (foo());
 var foo = function () { return "zz";};
 ```
+
 
 4. What are the 5 data types that are supported in JavaScript? (1 point)
 
@@ -205,6 +216,7 @@ f. JavaScript can automatically write to hard disk.
 "bob".replace(/b/g, "x");
 "bob".replace(new RegExp("b", "g"), "x");
 ```
+
 
 9. What did JavaScript used to be called. (1 point)
 
