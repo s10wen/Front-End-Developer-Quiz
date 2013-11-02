@@ -1,4 +1,4 @@
-# Front End Dev Quiz - Questions
+# Front End Developer Quiz - Questions
 
 
 ## HTML
