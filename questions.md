@@ -49,7 +49,7 @@ and the inline elements. (1 point)
 
 1. In CSS write out the colour red 3 different ways. (1 point)
 
-2. What's the shortest was to write: (1 point)
+2. What's the shortest way to write: (1 point)
 
 ```css
 margin-top: 50px;
